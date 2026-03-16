@@ -19,6 +19,7 @@
 ## Database
 |  |
 | ------- |
+| [0185-department-top-three-salaries](https://github.com/Swathijettiboina/leetcode/tree/master/0185-department-top-three-salaries) |
 | [0584-find-customer-referee](https://github.com/Swathijettiboina/leetcode/tree/master/0584-find-customer-referee) |
 | [1068-product-sales-analysis-i](https://github.com/Swathijettiboina/leetcode/tree/master/1068-product-sales-analysis-i) |
 | [1148-article-views-i](https://github.com/Swathijettiboina/leetcode/tree/master/1148-article-views-i) |
