@@ -20,4 +20,5 @@
 |  |
 | ------- |
 | [0584-find-customer-referee](https://github.com/Swathijettiboina/leetcode/tree/master/0584-find-customer-referee) |
+| [1148-article-views-i](https://github.com/Swathijettiboina/leetcode/tree/master/1148-article-views-i) |
 <!---LeetCode Topics End-->
